@@ -2,3 +2,4 @@
 ## Library use:
 - opencv
 - mediapipe
+- os
